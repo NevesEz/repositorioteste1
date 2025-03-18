@@ -1,6 +1,6 @@
 Faculdade Uniesp
 Curso: Ciência da Computação
-Disciplina: Tópicos Essencias em Progamação
+Disciplina: Introdução a Progamação
 Nome: Matheus Padilha Ramos Neves
 
 Resposta da Lista de Exercício
@@ -9,4 +9,12 @@ Questão 01
 
 Questão 02
 
-Questão 03
+
+
+Questão 04
+
+Questão 05
+
+Questão 06
+
+Questão 10
